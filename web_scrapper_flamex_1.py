@@ -10,6 +10,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
 
 
+
 counter=0
 delimiter="|"
 output = []
